@@ -11,12 +11,7 @@ app.get("/",(req, res)=>{
             +"<h3>Smart Devices for sale</h3>"
             + "<br/>"
             + "<ol>"
-            +"<li>Laptops</li>"
-            +"<li>Mobile Phones</li>"
-            +"<li>Hololgraphic Devices</li>"
-            +"<li>Samrt Watches</li>"
-            +"<li>Gaming Consoles</li>"
-            + "</ol>"
+          
     );
 });
 
